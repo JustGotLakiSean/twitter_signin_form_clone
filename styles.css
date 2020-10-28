@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#content_container {
+  height: 580px;
+  width: 100%;
+  background: #A000B2;
+}
+
+#left_content {
+  height: 580px;
+  width: 50%;
+  float: left;
+}
+
+#login_form_container {
+  height: 580px;
+  width: 50%;
+  float: left;
+}
+
+#left_inner_content p {
+  margin: 0;
+}
+
